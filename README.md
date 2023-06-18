@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently starting my coding journey, soon to be joining a Northcoders cohort!
+- 😄 Pronouns: He/Him
+
 <!--
 **EdJackson98/EdJackson98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
